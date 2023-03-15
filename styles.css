@@ -1,0 +1,27 @@
+h1 {
+    background-color: rgb(104, 65, 40);
+    color: white;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+.list-font {
+    font-size: 20px;
+}
+
+.description-font {
+    font-size: 18px;
+}
+
+.food-img {
+    height: auto;
+    width: 400px;
+}
